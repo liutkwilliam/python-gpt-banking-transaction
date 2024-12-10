@@ -20,12 +20,12 @@ def format_files_to_list(filename: str):
 
 # group Type and Category
 
-def group_cat(trans_ls: list, column_no: int):
+def group_cat(file_ls: list, column_no: int):
 
     group_ls = []
     line = 0
-    while line < len(trans_ls):
-        group_name = trans_ls[line][column_no]
+    while line < len(file_ls):
+        group_name = file_ls[line][column_no]
         if group_name not in group_ls:
             group_ls.append(group_name)
         line += 1

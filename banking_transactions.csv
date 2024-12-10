@@ -1,10 +1,10 @@
 Account ID,Transaction Date,Transaction Type,Category,Amount,Description
 RXWT2473,22/11/2024 08:42,Withdraw,ATM Cash Withdraw,150,ATM Cash Withdraw at Strathfield branch
 QXMH1436,23/11/2024 09:09,Transfer,Groceries,19.63,Transfer to Alex for supermarket bill
-IOPL3764,2/11/2024 09:47,Deposit,Income,14.15,Bank interest
+IOPL3764,2/11/2024 09:47,Deposit,Income,114.15,Bank interest
 QXMH1436,6/11/2024 21:37,Transfer,Utilities,7563.65,Transfer to John for electricity bill
 SCRE4918,26/11/2024 20:31,Transfer,Groceries,194.05,Transfer to Alex for supermarket bill
-FZLH2672,16/11/2024 23:36,Deposit,Income,204.05,Investment income
+FZLH2672,16/11/2024 23:36,Deposit,Income,1204.05,Investment income
 RXWT2473,17/11/2024 22:18,Withdraw,ATM Cash Withdraw,140,ATM Cash Withdraw at Hornsby branch
 OAJX8472,26/11/2024 20:34,Payment,Groceries,221.5,Organic food shop
 CQSK8862,28/11/2024 21:56,Withdraw,ATM Cash Withdraw,90,ATM Cash Withdraw at Cronulla branch
@@ -47,7 +47,7 @@ QXMH1436,27/11/2024 21:51,Withdraw,ATM Cash Withdraw,110,ATM Cash Withdraw at Bl
 SCRE4918,18/11/2024 23:42,Transfer,Groceries,136.25,Transfer to Alex for supermarket bill
 QXMH1436,8/11/2024 20:04,Payment,Groceries,65.66,Supermarket purchase
 FRQA5486,15/11/2024 08:34,Withdraw,ATM Cash Withdraw,260,ATM Cash Withdraw at Randwick branch
-ZEPO3504,28/11/2024 23:18,Deposit,Income,98.99,Investment income
+ZEPO3504,28/11/2024 23:18,Deposit,Income,1198.99,Investment income
 XEXV5098,28/11/2024 11:43,Withdraw,ATM Cash Withdraw,210,ATM Cash Withdraw at Surry Hills branch
 TKRR6271,4/11/2024 15:33,Withdraw,ATM Cash Withdraw,60,ATM Cash Withdraw at Penrith branch
 LVGF8990,6/11/2024 22:19,Payment,Utilities,4152.38,Electricity bill payment
@@ -65,7 +65,7 @@ QXMH1436,10/11/2024 20:29,Transfer,Entertainment,311.04,Transfer to Chris for co
 SCRE4918,2/11/2024 20:29,Transfer,Entertainment,288.92,Transfer to Chris for concert ticket
 TKRR6271,27/11/2024 11:59,Transfer,Groceries,280.27,Transfer to Alex for supermarket bill
 SCRE4918,5/11/2024 22:40,Transfer,Dining,24.69,Transfer to Sarah for dinner outing
-RXWT2473,18/11/2024 10:20,Deposit,Income,915.05,Working income
+RXWT2473,18/11/2024 10:20,Deposit,Income,8915.05,Working income
 NHAD9393,15/11/2024 16:13,Transfer,Transportation,60.46,Transfer to Jamie for taxi fare
 QXMH1436,28/11/2024 16:53,Transfer,Utilities,4512.3,Transfer to John for electricity bill
 OAJX8472,1/11/2024 13:14,Withdraw,ATM Cash Withdraw,0,ATM Cash Withdraw at Randwick branch
@@ -79,7 +79,7 @@ QXMH1436,5/11/2024 20:18,Withdraw,ATM Cash Withdraw,20,ATM Cash Withdraw at Surr
 PHZB4600,13/11/2024 13:03,Withdraw,ATM Cash Withdraw,10,ATM Cash Withdraw at Bankstown branch
 FRQA5486,28/11/2024 23:01,Transfer,Dining,98.11,Transfer to Sarah for dinner outing
 NHAD9393,13/11/2024 20:55,Transfer,Groceries,109.73,Transfer to Alex for supermarket bill
-XEXV5098,6/11/2024 12:13,Deposit,Income,578.32,Working income
+XEXV5098,6/11/2024 12:13,Deposit,Income,8578.32,Working income
 ZEPO3504,28/11/2024 23:35,Payment,Utilities,1014.39,Water bill settlement
 NHAD9393,13/11/2024 19:41,Transfer,Dining,105.41,Transfer to Sarah for dinner outing
 RXWT2473,12/11/2024 23:15,Payment,Groceries,207.71,Supermarket purchase
@@ -90,8 +90,8 @@ LVGF8990,13/11/2024 15:11,Transfer,Dining,69.82,Transfer to Sarah for dinner out
 XEXV5098,10/11/2024 21:42,Withdraw,ATM Cash Withdraw,80,ATM Cash Withdraw at Manly branch
 QXMH1436,1/11/2024 20:57,Transfer,Groceries,102.97,Transfer to Alex for supermarket bill
 SCRE4918,26/11/2024 21:00,Withdraw,ATM Cash Withdraw,110,ATM Cash Withdraw at Chatswood branch
-FRQA5486,12/11/2024 10:15,Deposit,Income,69.04,Working income
-QXMH1436,22/11/2024 10:54,Deposit,Income,196.03,Working income
+FRQA5486,12/11/2024 10:15,Deposit,Income,8069.04,Working income
+QXMH1436,22/11/2024 10:54,Deposit,Income,9196.03,Working income
 QXMH1436,6/11/2024 08:46,Transfer,Transportation,5,Transfer to Jamie for taxi fare
 NHAD9393,3/11/2024 20:39,Withdraw,ATM Cash Withdraw,200,ATM Cash Withdraw at Randwick branch
 OAJX8472,13/11/2024 19:14,Withdraw,ATM Cash Withdraw,10,ATM Cash Withdraw at Blacktown branch
@@ -100,10 +100,10 @@ XEXV5098,18/11/2024 22:44,Withdraw,ATM Cash Withdraw,5370,ATM Cash Withdraw at M
 IOPL3764,11/11/2024 16:30,Transfer,Utilities,3122.83,Transfer to John for electricity bill
 FRQA5486,3/11/2024 10:46,Transfer,Dining,1.33,Transfer to Sarah for dinner outing
 ZEPO3504,8/11/2024 16:44,Payment,Utilities,3661.72,Water bill settlement
-SCRE4918,28/11/2024 16:19,Deposit,Income,412.28,Working income
+SCRE4918,28/11/2024 16:19,Deposit,Income,8412.28,Working income
 FZLH2672,18/11/2024 20:41,Transfer,Dining,145.34,Transfer to Sarah for dinner outing
 TKRR6271,5/11/2024 14:10,Payment,Transportation,16.81,Taxi fare
-CQSK8862,7/11/2024 23:25,Deposit,Income,881.95,Working income
+CQSK8862,7/11/2024 23:25,Deposit,Income,8881.95,Working income
 FZLH2672,13/11/2024 09:28,Withdraw,ATM Cash Withdraw,250,ATM Cash Withdraw at Newtown branch
 FRQA5486,23/11/2024 17:13,Transfer,Dining,19.04,Transfer to Sarah for dinner outing
 XEXV5098,22/11/2024 18:59,Withdraw,ATM Cash Withdraw,330,ATM Cash Withdraw at Penrith branch
@@ -123,7 +123,7 @@ CQSK8862,7/11/2024 20:49,Withdraw,ATM Cash Withdraw,7160,ATM Cash Withdraw at Su
 FZLH2672,15/11/2024 08:22,Transfer,Utilities,6177.99,Transfer to John for electricity bill
 QXMH1436,15/11/2024 12:44,Transfer,Dining,130.5,Transfer to Sarah for dinner outing
 ZEPO3504,8/11/2024 21:06,Payment,Entertainment,287.11,Movie tickets
-CQSK8862,8/11/2024 21:26,Deposit,Income,222.55,Investment income
+CQSK8862,8/11/2024 21:26,Deposit,Income,1222.55,Investment income
 FZLH2672,4/11/2024 18:42,Payment,Utilities,2669.22,Electricity bill payment
 FRQA5486,24/11/2024 10:33,Transfer,Entertainment,340.54,Transfer to Chris for concert ticket
 QXMH1436,12/11/2024 20:31,Payment,Entertainment,4.31,Gaming subscription
@@ -151,13 +151,13 @@ FRQA5486,4/11/2024 15:22,Payment,Transportation,41.26,Public transport fare
 ZEPO3504,10/11/2024 21:41,Transfer,Dining,20.67,Transfer to Sarah for dinner outing
 OAJX8472,3/11/2024 08:30,Withdraw,ATM Cash Withdraw,150,ATM Cash Withdraw at Manly branch
 TKRR6271,10/11/2024 21:12,Withdraw,ATM Cash Withdraw,380,ATM Cash Withdraw at Penrith branch
-ZEPO3504,9/11/2024 08:53,Deposit,Income,128.66,Working income
+ZEPO3504,9/11/2024 08:53,Deposit,Income,8128.66,Working income
 CQSK8862,1/11/2024 22:13,Payment,Transportation,45.74,Public transport fare
 IOPL3764,23/11/2024 17:01,Transfer,Entertainment,197.3,Transfer to Chris for concert ticket
 FZLH2672,20/11/2024 22:13,Withdraw,ATM Cash Withdraw,50,ATM Cash Withdraw at Strathfield branch
 FRQA5486,14/11/2024 15:28,Transfer,Entertainment,392.56,Transfer to Chris for concert ticket
 YRMX9241,1/11/2024 16:05,Payment,Utilities,8850.01,Water bill settlement
-XEXV5098,18/11/2024 23:34,Deposit,Income,449.82,Investment income
+XEXV5098,18/11/2024 23:34,Deposit,Income,1449.82,Investment income
 CQSK8862,9/11/2024 11:16,Transfer,Dining,114.64,Transfer to Sarah for dinner outing
 QXMH1436,15/11/2024 21:24,Deposit,Income,19.12,Bank interest
 IOPL3764,3/11/2024 08:01,Payment,Entertainment,66.73,Movie tickets
@@ -169,7 +169,7 @@ TKRR6271,6/11/2024 20:44,Transfer,Groceries,286.98,Transfer to Alex for supermar
 FRQA5486,27/11/2024 12:58,Withdraw,ATM Cash Withdraw,0,ATM Cash Withdraw at Randwick branch
 TKRR6271,16/11/2024 14:02,Withdraw,ATM Cash Withdraw,40,ATM Cash Withdraw at Penrith branch
 ZEPO3504,17/11/2024 20:13,Payment,Dining,143.05,Japanese dinner
-FZLH2672,1/11/2024 20:11,Deposit,Income,518.83,Working income
+FZLH2672,1/11/2024 20:11,Deposit,Income,8518.83,Working income
 YRMX9241,3/11/2024 16:59,Withdraw,ATM Cash Withdraw,210,ATM Cash Withdraw at Strathfield branch
 RXWT2473,20/11/2024 21:40,Transfer,Entertainment,153.8,Transfer to Chris for concert ticket
 TKRR6271,17/11/2024 17:58,Payment,Utilities,8050.13,Electricity bill payment
@@ -185,7 +185,7 @@ TKRR6271,14/11/2024 23:43,Payment,Utilities,2764.74,Water bill settlement
 RXWT2473,23/11/2024 18:36,Transfer,Entertainment,358.66,Transfer to Chris for concert ticket
 FZLH2672,27/11/2024 23:59,Transfer,Groceries,293.11,Transfer to Alex for supermarket bill
 FRQA5486,26/11/2024 21:40,Withdraw,ATM Cash Withdraw,110,ATM Cash Withdraw at Surry Hills branch
-QXMH1436,16/11/2024 16:39,Deposit,Income,210.39,Working income
+QXMH1436,16/11/2024 16:39,Deposit,Income,8210.39,Working income
 FZLH2672,17/11/2024 21:43,Withdraw,ATM Cash Withdraw,5040,ATM Cash Withdraw at Cronulla branch
 OAJX8472,21/11/2024 14:53,Withdraw,ATM Cash Withdraw,7940,ATM Cash Withdraw at Chatswood branch
 LVGF8990,6/11/2024 15:54,Withdraw,ATM Cash Withdraw,180,ATM Cash Withdraw at Blacktown branch
@@ -196,7 +196,7 @@ FZLH2672,9/11/2024 14:14,Withdraw,ATM Cash Withdraw,60,ATM Cash Withdraw at Bank
 ZEPO3504,19/11/2024 20:05,Withdraw,ATM Cash Withdraw,80,ATM Cash Withdraw at Cronulla branch
 XEXV5098,20/11/2024 22:21,Transfer,Groceries,265.15,Transfer to Alex for supermarket bill
 RXWT2473,7/11/2024 20:25,Withdraw,ATM Cash Withdraw,2630,ATM Cash Withdraw at Castle Hill branch
-RXWT2473,12/11/2024 19:48,Deposit,Income,382.98,Investment income
+RXWT2473,12/11/2024 19:48,Deposit,Income,1382.98,Investment income
 SCRE4918,18/11/2024 09:16,Withdraw,ATM Cash Withdraw,150,ATM Cash Withdraw at Penrith branch
 IOPL3764,15/11/2024 14:04,Payment,Groceries,206.58,Supermarket purchase
 CQSK8862,2/11/2024 21:39,Payment,Entertainment,394.24,Concert ticket
@@ -218,16 +218,16 @@ RXWT2473,27/11/2024 23:10,Transfer,Groceries,58.88,Transfer to Alex for supermar
 ZEPO3504,19/11/2024 18:39,Payment,Transportation,74.51,Public transport fare
 FZLH2672,9/11/2024 14:58,Withdraw,ATM Cash Withdraw,30,ATM Cash Withdraw at Blacktown branch
 NHAD9393,12/11/2024 21:46,Payment,Utilities,4142.33,Electricity bill payment
-PHZB4600,25/11/2024 15:44,Deposit,Income,268.99,Working income
+PHZB4600,25/11/2024 15:44,Deposit,Income,8268.99,Working income
 PHZB4600,19/11/2024 16:36,Transfer,Dining,143.05,Transfer to Sarah for dinner outing
 OAJX8472,4/11/2024 21:37,Transfer,Entertainment,31.34,Transfer to Chris for concert ticket
 FRQA5486,12/11/2024 15:50,Payment,Dining,14.45,Italian restaurant outing
 RXWT2473,24/11/2024 08:32,Payment,Entertainment,160.35,Gaming subscription
-SCRE4918,4/11/2024 14:04,Deposit,Income,129.03,Investment income
+SCRE4918,4/11/2024 14:04,Deposit,Income,1129.03,Investment income
 LVGF8990,16/11/2024 22:03,Payment,Groceries,56.37,Local market shopping
-FRQA5486,15/11/2024 09:20,Deposit,Income,598.58,Working income
+FRQA5486,15/11/2024 09:20,Deposit,Income,8598.58,Working income
 FZLH2672,5/11/2024 20:27,Withdraw,ATM Cash Withdraw,4080,ATM Cash Withdraw at Chatswood branch
-TKRR6271,28/11/2024 22:57,Deposit,Income,429.98,Working income
+TKRR6271,28/11/2024 22:57,Deposit,Income,8429.98,Working income
 LVGF8990,9/11/2024 10:34,Payment,Dining,72.16,Fast food meal
 QXMH1436,26/11/2024 20:46,Transfer,Groceries,205.3,Transfer to Alex for supermarket bill
 FRQA5486,11/11/2024 10:12,Transfer,Groceries,34.56,Transfer to Alex for supermarket bill
@@ -252,7 +252,7 @@ FRQA5486,3/11/2024 17:01,Withdraw,ATM Cash Withdraw,6160,ATM Cash Withdraw at Ma
 RXWT2473,1/11/2024 17:24,Payment,Entertainment,98.98,Movie tickets
 ZEPO3504,25/11/2024 12:11,Withdraw,ATM Cash Withdraw,240,ATM Cash Withdraw at Chatswood branch
 YRMX9241,24/11/2024 23:18,Payment,Entertainment,153,Concert ticket
-IOPL3764,3/11/2024 11:14,Deposit,Income,645.19,Working income
+IOPL3764,3/11/2024 11:14,Deposit,Income,8645.19,Working income
 ZEPO3504,28/11/2024 17:06,Transfer,Utilities,9726.03,Transfer to John for electricity bill
 FZLH2672,18/11/2024 23:11,Payment,Utilities,8554.18,Gas utility charge
 PHZB4600,9/11/2024 16:55,Payment,Dining,48.82,Fast food meal
@@ -260,18 +260,18 @@ NHAD9393,21/11/2024 19:17,Payment,Dining,25.94,Fast food meal
 ZEPO3504,16/11/2024 21:29,Withdraw,ATM Cash Withdraw,40,ATM Cash Withdraw at Surry Hills branch
 FRQA5486,26/11/2024 14:59,Transfer,Groceries,93.24,Transfer to Alex for supermarket bill
 ZEPO3504,28/11/2024 21:54,Payment,Transportation,71.6,Taxi fare
-CQSK8862,22/11/2024 10:04,Deposit,Income,1.83,Bank interest
+CQSK8862,22/11/2024 10:04,Deposit,Income,81.83,Bank interest
 CQSK8862,19/11/2024 10:19,Payment,Dining,98.79,Italian restaurant outing
 NHAD9393,12/11/2024 21:13,Transfer,Entertainment,180.13,Transfer to Chris for concert ticket
 FZLH2672,23/11/2024 22:16,Transfer,Groceries,149.48,Transfer to Alex for supermarket bill
-PHZB4600,20/11/2024 21:28,Deposit,Income,782.04,Working income
+PHZB4600,20/11/2024 21:28,Deposit,Income,8782.04,Working income
 ZEPO3504,14/11/2024 23:56,Transfer,Dining,65.12,Transfer to Sarah for dinner outing
 CQSK8862,27/11/2024 21:30,Transfer,Transportation,56.45,Transfer to Jamie for taxi fare
 FZLH2672,9/11/2024 21:21,Payment,Dining,55.95,Japanese dinner
 OAJX8472,1/11/2024 20:28,Transfer,Dining,139.32,Transfer to Sarah for dinner outing
 LVGF8990,22/11/2024 20:17,Payment,Dining,50.45,Italian restaurant outing
 NHAD9393,20/11/2024 12:23,Payment,Transportation,48.96,Public transport fare
-TKRR6271,13/11/2024 18:00,Deposit,Income,433.42,Investment income
+TKRR6271,13/11/2024 18:00,Deposit,Income,1433.42,Investment income
 TKRR6271,9/11/2024 20:13,Withdraw,ATM Cash Withdraw,5360,ATM Cash Withdraw at Liverpool branch
 PHZB4600,18/11/2024 19:01,Payment,Utilities,5211.42,Electricity bill payment
 FRQA5486,16/11/2024 20:17,Payment,Utilities,2724.33,Gas utility charge
@@ -327,8 +327,8 @@ QXMH1436,27/11/2024 09:35,Payment,Transportation,20.83,Gas station refill
 QXMH1436,9/11/2024 18:45,Withdraw,ATM Cash Withdraw,150,ATM Cash Withdraw at Liverpool branch
 ZEPO3504,1/11/2024 23:33,Payment,Dining,74.85,Fast food meal
 SCRE4918,25/11/2024 20:06,Withdraw,ATM Cash Withdraw,270,ATM Cash Withdraw at Castle Hill branch
-OAJX8472,22/11/2024 23:59,Deposit,Income,292.52,Investment income
-FZLH2672,10/11/2024 23:28,Deposit,Income,152.78,Investment income
+OAJX8472,22/11/2024 23:59,Deposit,Income,1292.52,Investment income
+FZLH2672,10/11/2024 23:28,Deposit,Income,1152.78,Investment income
 RXWT2473,6/11/2024 23:51,Withdraw,ATM Cash Withdraw,70,ATM Cash Withdraw at Hornsby branch
 LVGF8990,4/11/2024 12:53,Withdraw,ATM Cash Withdraw,160,ATM Cash Withdraw at Strathfield branch
 FZLH2672,6/11/2024 13:40,Payment,Groceries,119.44,Local market shopping
@@ -342,7 +342,7 @@ OAJX8472,18/11/2024 22:54,Payment,Transportation,82.51,Taxi fare
 ZEPO3504,22/11/2024 21:15,Withdraw,ATM Cash Withdraw,90,ATM Cash Withdraw at Chatswood branch
 XEXV5098,1/11/2024 08:17,Payment,Utilities,2377.22,Electricity bill payment
 RXWT2473,1/11/2024 19:03,Transfer,Transportation,85.18,Transfer to Jamie for taxi fare
-TKRR6271,12/11/2024 08:20,Deposit,Income,401.86,Investment income
+TKRR6271,12/11/2024 08:20,Deposit,Income,1401.86,Investment income
 SCRE4918,19/11/2024 20:19,Payment,Utilities,4927.44,Water bill settlement
 XEXV5098,19/11/2024 23:29,Payment,Groceries,181.22,Supermarket purchase
 YRMX9241,4/11/2024 13:04,Payment,Utilities,1506.5,Gas utility charge
